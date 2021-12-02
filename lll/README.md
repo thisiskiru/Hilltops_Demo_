@@ -1,6 +1,3 @@
-# 404
+# Animated Under Construction Page
 
-404 Pages not found
-
-- Developer  [404.html](404.html)
-- Production  [index.html](index.html)
+Simple temporary page for web developers
